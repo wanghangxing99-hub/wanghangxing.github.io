@@ -1,0 +1,151 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 20 Nov 2025 21:22:49 at https://m.wailianvisa.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "zh, en, *" https://m.wailianvisa.com -O1 "G:\Websites\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:26:01	Warning: 	file not stored in cache due to bogus state (broken size, expected 4517321 got 1707505): files.leapoon.com/PMarketing/Article/20251111/ot1762845793.png
+21:29:24	Warning: 	file not stored in cache due to bogus state (broken size, expected 4517321 got 1749393): files.leapoon.com/PMarketing/Article/20251107/ot1762481613.png
+21:31:31	Warning: 	file not stored in cache due to bogus state (broken size, expected 3505728 got 2281733): files.leapoon.com/PMarketing/Article/20251024/ot1761292409.png
+21:37:46	Warning: 	file not stored in cache due to bogus state (broken size, expected 3505728 got 1718638): files.leapoon.com/PMarketing/Article/20250623/ot1750670272.png
+21:46:21	Warning: 	file not stored in cache due to bogus state (broken size, expected 1510902 got 1181713): files.leapoon.com/PMarketing/Article/20251111/ot1762845712.png
+21:47:54	Warning: 	file not stored in cache due to bogus state (broken size, expected 4517321 got 1777240): files.leapoon.com/PMarketing/Article/20251111/ot1762845688.png
+21:48:11	Warning: 	Retry after error -4 (Incorrect length (1707505 Bytes, 4517321 expected)) at link files.leapoon.com/PMarketing/Article/20251111/ot1762845793.png (from https://m.wailianvisa.com/)
+22:03:27	Warning: 	file not stored in cache due to bogus state (broken size, expected 1768875 got 1178732): files.leapoon.com/PMarketing/Article/20251112/ot1762934982.png
+22:05:03	Warning: 	file not stored in cache due to bogus state (broken size, expected 3505728 got 1785529): files.leapoon.com/PMarketing/Article/20251112/ot1762934950.png
+22:07:11	Warning: 	file not stored in cache due to bogus state (broken size, expected 3547110 got 1751133): files.leapoon.com/PMarketing/Article/20251106/ot1762414939.png
+22:10:18	Warning: 	file not stored in cache due to bogus state (broken size, expected 4727257 got 1709525): files.leapoon.com/PMarketing/Article/20251106/ot1762415049.png
+22:11:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 4708780 got 1725433): files.leapoon.com/PMarketing/Article/20251106/ot1762415063.png
+22:12:54	Warning: 	file not stored in cache due to bogus state (broken size, expected 4517321 got 1772397): files.leapoon.com/PMarketing/Article/20251106/ot1762415083.png
+22:13:29	Warning: 	file not stored in cache due to bogus state (broken size, expected 1768875 got 1182309): files.leapoon.com/PMarketing/Article/20251106/ot1762415092.png
+22:14:18	Warning: 	file not stored in cache due to bogus state (broken size, expected 4727824 got 1769689): files.leapoon.com/PMarketing/Article/20251106/ot1762415100.png
+22:19:20	Warning: 	file not stored in cache due to bogus state (broken size, expected 2733691 got 1708789): files.leapoon.com/PMarketing/Article/20251107/ot1762481403.png
+22:19:28	Warning: 	file not stored in cache due to bogus state (broken size, expected 3505728 got 1759301): files.leapoon.com/PMarketing/Article/20251107/ot1762481420.png
+22:22:30	Warning: 	file not stored in cache due to bogus state (broken size, expected 3505728 got 2881336): files.leapoon.com/PMarketing/Article/20251107/ot1762481430.png
+22:22:30	Warning: 	Retry after error -4 (Incorrect length (1749393 Bytes, 4517321 expected)) at link files.leapoon.com/PMarketing/Article/20251107/ot1762481613.png (from https://m.wailianvisa.com/articles)
+22:23:00	Warning: 	file not stored in cache due to bogus state (broken size, expected 4517321 got 1709445): files.leapoon.com/PMarketing/Article/20251107/ot1762481443.png
+22:25:56	Warning: 	file not stored in cache due to bogus state (broken size, expected 4674272 got 1720997): files.leapoon.com/PMarketing/Article/20251107/ot1762481475.png
+22:26:59	Warning: 	file not stored in cache due to bogus state (broken size, expected 4517321 got 3461124): files.leapoon.com/PMarketing/Article/20251107/ot1762481613.png
+22:29:47	Warning: 	file not stored in cache due to bogus state (broken size, expected 3988637 got 2810193): files.leapoon.com/PMarketing/Article/20251107/ot1762481496.png
+22:31:21	Warning: 	file not stored in cache due to bogus state (broken size, expected 2439141 got 1713929): files.leapoon.com/PMarketing/Article/20251024/ot1761292059.png
+22:31:48	Warning: 	file not stored in cache due to bogus state (broken size, expected 4517321 got 1729189): files.leapoon.com/PMarketing/Article/20251024/ot1761292088.png
+22:33:05	Warning: 	file not stored in cache due to bogus state (broken size, expected 3505728 got 2268613): files.leapoon.com/PMarketing/Article/20251024/ot1761292072.png
+22:36:03	Warning: 	file not stored in cache due to bogus state (broken size, expected 4674272 got 1741677): files.leapoon.com/PMarketing/Article/20251024/ot1761292131.png
+22:36:03	Warning: 	Retry after error -4 (Incorrect length (2281733 Bytes, 3505728 expected)) at link files.leapoon.com/PMarketing/Article/20251024/ot1761292409.png (from https://m.wailianvisa.com/articles)
+22:36:06	Warning: 	file not stored in cache due to bogus state (broken size, expected 3505728 got 2341113): files.leapoon.com/PMarketing/Article/20251024/ot1761292101.png
+22:40:52	Warning: 	file not stored in cache due to bogus state (broken size, expected 4727257 got 3359997): files.leapoon.com/PMarketing/Article/20251024/ot1761292152.png
+22:42:05	Warning: 	file not stored in cache due to bogus state (broken size, expected 4517321 got 3339297): files.leapoon.com/PMarketing/Article/20251024/ot1761292299.png
+22:43:08	Warning: 	file not stored in cache due to bogus state (broken size, expected 1957321 got 1182737): files.leapoon.com/PMarketing/Article/20251029/ot1761726508.png
+22:47:07	Warning: 	file not stored in cache due to bogus state (broken size, expected 4487194 got 3359405): files.leapoon.com/PMarketing/Article/20251029/ot1761726472.png
+22:50:24	Warning: 	file not stored in cache due to bogus state (broken size, expected 4708780 got 2880621): files.leapoon.com/PMarketing/Article/20250711/ot1752218054.png
+22:56:36	Warning: 	file not stored in cache due to bogus state (broken size, expected 4727257 got 1788785): files.leapoon.com/PMarketing/Article/20250402/ot1743584631.png
+22:57:30	Warning: 	file not stored in cache due to bogus state (broken size, expected 2770068 got 1181190): files.leapoon.com/PMarketing/Article/20240806/ot1722910506.png
+23:03:15	Warning: 	file not stored in cache due to bogus state (broken size, expected 2538422 got 1178641): files.leapoon.com/PMarketing/Article/20250522/ot1747878514.png
+23:04:42	Warning: 	file not stored in cache due to bogus state (broken size, expected 3423403 got 1710401): files.leapoon.com/PMarketing/Article/20250515/ot1747293350.png
+23:06:26	Warning: 	file not stored in cache due to bogus state (broken size, expected 1774841 got 1179994): files.leapoon.com/PMarketing/Article/20250714/ot1752475443.png
+23:06:57	Warning: 	file not stored in cache due to bogus state (broken size, expected 3505728 got 2268637): files.leapoon.com/PMarketing/Article/20250714/ot1752475409.png
+23:08:45	Warning: 	file not stored in cache due to bogus state (broken size, expected 3505728 got 1767189): files.leapoon.com/PMarketing/Article/20250714/ot1752475453.png
+23:09:38	Warning: 	file not stored in cache due to bogus state (broken size, expected 1740624 got 1181733): files.leapoon.com/PMarketing/Article/20250714/ot1752475485.png
+23:10:08	Warning: 	file not stored in cache due to bogus state (broken size, expected 2239838 got 1183705): files.leapoon.com/PMarketing/Article/20250707/ot1751869236.png
+23:11:52	Warning: 	file not stored in cache due to bogus state (broken size, expected 2220270 got 1181545): files.leapoon.com/PMarketing/Article/20251015/ot1760515959.png
+23:14:15	Warning: 	file not stored in cache due to bogus state (broken size, expected 2827565 got 1711629): files.leapoon.com/PMarketing/Article/20251015/ot1760516123.png
+23:15:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 2369825 got 1723129): files.leapoon.com/PMarketing/Article/20240624/ot1719217762.png
+23:15:54	Warning: 	file not stored in cache due to bogus state (broken size, expected 1485689 got 1181505): files.leapoon.com/PMarketing/Article/20250427/ot1745745502.png
+23:16:23	Warning: 	file not stored in cache due to bogus state (broken size, expected 2335182 got 1709137): files.leapoon.com/PMarketing/Article/20241203/ot1733193745.png
+23:20:18	Warning: 	file not stored in cache due to bogus state (broken size, expected 4736487 got 1710089): files.leapoon.com/PMarketing/Article/20250114/ot1736839282.png
+23:23:08	Warning: 	file not stored in cache due to bogus state (broken size, expected 2335182 got 1719545): files.leapoon.com/PMarketing/Article/20241211/ot1733902022.png
+23:26:08	Warning: 	file not stored in cache due to bogus state (broken size, expected 1768875 got 1181189): files.leapoon.com/PMarketing/Article/20250714/ot1752474622.png
+23:26:58	Warning: 	file not stored in cache due to bogus state (broken size, expected 2452305 got 1181189): files.leapoon.com/PMarketing/Article/20250605/ot1749102718.png
+23:27:47	Warning: 	file not stored in cache due to bogus state (broken size, expected 4732583 got 1724337): files.leapoon.com/PMarketing/Article/20250714/ot1752474631.png
+23:28:46	Warning: 	file not stored in cache due to bogus state (broken size, expected 2376042 got 1727597): files.leapoon.com/PMarketing/Article/20250623/ot1750670018.png
+23:30:07	Warning: 	Retry after error -4 (Incorrect length (1718638 Bytes, 3505728 expected)) at link files.leapoon.com/PMarketing/Article/20250623/ot1750670272.png (from https://m.wailianvisa.com/countries/Hungary.html)
+23:30:48	Warning: 	file not stored in cache due to bogus state (broken size, expected 4736487 got 1735130): files.leapoon.com/PMarketing/Article/20250623/ot1750670031.png
+23:32:23	Warning: 	file not stored in cache due to bogus state (broken size, expected 4284658 got 1707993): files.leapoon.com/PMarketing/Article/20250623/ot1750670061.png
+23:33:06	Warning: 	file not stored in cache due to bogus state (broken size, expected 3505728 got 2279169): files.leapoon.com/PMarketing/Article/20250623/ot1750670043.png
+23:33:18	Warning: 	file not stored in cache due to bogus state (broken size, expected 3505728 got 2897101): files.leapoon.com/PMarketing/Article/20250623/ot1750670272.png
+23:33:59	Warning: 	file not stored in cache due to bogus state (broken size, expected 1370644 got 1183245): files.leapoon.com/PMarketing/Article/20251015/ot1760511363.png
+23:35:36	Warning: 	file not stored in cache due to bogus state (broken size, expected 2592660 got 1191185): files.leapoon.com/PMarketing/Article/20251015/ot1760511371.png
+23:36:59	Warning: 	file not stored in cache due to bogus state (broken size, expected 1697146 got 1184089): files.leapoon.com/PMarketing/Article/20251015/ot1760511458.png
+23:37:43	Warning: 	file not stored in cache due to bogus state (broken size, expected 3505728 got 1714901): files.leapoon.com/PMarketing/Article/20251015/ot1760511380.png
+23:38:29	Warning: 	file not stored in cache due to bogus state (broken size, expected 2884403 got 1718485): files.leapoon.com/PMarketing/Article/20250925/ot1758786778.JPG
+23:40:55	Warning: 	file not stored in cache due to bogus state (broken size, expected 3699449 got 1730470): files.leapoon.com/PMarketing/Article/20241203/ot1733193464.jpg
+23:42:41	Warning: 	file not stored in cache due to bogus state (broken size, expected 4674272 got 1705189): files.leapoon.com/PMarketing/Article/20250523/ot1747967163.png
+23:45:46	Warning: 	file not stored in cache due to bogus state (broken size, expected 2644593 got 1724117): files.leapoon.com/PMarketing/Article/20241125/ot1732524684.png
+23:49:43	Warning: 	file not stored in cache due to bogus state (broken size, expected 4727257 got 3337785): files.leapoon.com/PMarketing/Article/20250117/ot1737093366.png
+23:52:10	Warning: 	file not stored in cache due to bogus state (broken size, expected 1768875 got 1182805): files.leapoon.com/PMarketing/Article/20250723/ot1753255700.png
+23:53:42	Warning: 	file not stored in cache due to bogus state (broken size, expected 4517321 got 1710093): files.leapoon.com/PMarketing/Article/20250723/ot1753255728.png
+23:55:46	Warning: 	file not stored in cache due to bogus state (broken size, expected 3505728 got 2249449): files.leapoon.com/PMarketing/Article/20250723/ot1753255737.png
+23:57:07	Warning: 	file not stored in cache due to bogus state (broken size, expected 4736487 got 1247457): files.leapoon.com/PMarketing/Article/20250723/ot1753255752.png
+23:57:59	Warning: 	file not stored in cache due to bogus state (broken size, expected 4674272 got 3341241): files.leapoon.com/PMarketing/Article/20250723/ot1753255717.png
+00:01:43	Warning: 	file not stored in cache due to bogus state (broken size, expected 3505728 got 1711713): files.leapoon.com/PMarketing/Article/20250723/ot1753255770.png
+00:04:45	Warning: 	file not stored in cache due to bogus state (broken size, expected 4674272 got 3340525): files.leapoon.com/PMarketing/Article/20250723/ot1753255761.png
+00:06:06	Warning: 	file not stored in cache due to bogus state (broken size, expected 2234344 got 1182154): files.leapoon.com/PMarketing/Article/20250731/ot1753929054.png
+00:07:37	Warning: 	file not stored in cache due to bogus state (broken size, expected 1462935 got 1181545): files.leapoon.com/PMarketing/Article/20250423/ot1745396718.png
+09:40:29	Warning: 	file not stored in cache due to bogus state (broken size, expected 4411244 got 1721049): files.leapoon.com/PMarketing/Article/20250508/ot1746684045.png
+09:42:28	Warning: 	file not stored in cache due to bogus state (broken size, expected 1768875 got 1179437): files.leapoon.com/PMarketing/Article/20250814/ot1755156999.png
+09:42:30	Warning: 	file not stored in cache due to bogus state (broken size, expected 1675762 got 1179357): files.leapoon.com/PMarketing/Article/20250715/ot1752562863.png
+09:45:02	Warning: 	file not stored in cache due to bogus state (broken size, expected 2378498 got 1183245): files.leapoon.com/PMarketing/Article/20250519/ot1747640537.PNG
+09:51:46	Warning: 	file not stored in cache due to bogus state (broken size, expected 1387308 got 1205186): files.leapoon.com/PMarketing/Article/20250925/ot1758786606.png
+09:53:41	Warning: 	file not stored in cache due to bogus state (broken size, expected 1581151 got 1180865): files.leapoon.com/PMarketing/Article/20250925/ot1758786645.png
+09:54:42	Warning: 	file not stored in cache due to bogus state (broken size, expected 2363673 got 1178573): files.leapoon.com/PMarketing/Article/20250925/ot1758786763.png
+09:54:49	Warning: 	Retry after error -4 (Incorrect length (1777240 Bytes, 4517321 expected)) at link files.leapoon.com/PMarketing/Article/20251111/ot1762845688.png (from https://m.wailianvisa.com/articles/2604.html)
+09:54:50	Warning: 	Retry after error -4 (Incorrect length (1181713 Bytes, 1510902 expected)) at link files.leapoon.com/PMarketing/Article/20251111/ot1762845712.png (from https://m.wailianvisa.com/articles/2604.html)
+09:54:50	Warning: 	Retry after error -2 (Receive Time Out) at link files.leapoon.com/PMarketing/Article/20251112/ot1762934894.png (from https://m.wailianvisa.com/articles/2603.html)
+09:54:50	Warning: 	Retry after error -2 (Receive Time Out) at link files.leapoon.com/PMarketing/Article/20251112/ot1762934905.png (from https://m.wailianvisa.com/articles/2603.html)
+09:55:42	Warning: 	Retry after error -2 (Receive Time Out) at link files.leapoon.com/PMarketing/Article/20251112/ot1762934919.png (from https://m.wailianvisa.com/articles/2603.html)
+09:58:02	Warning: 	file not stored in cache due to bogus state (broken size, expected 4699550 got 4325142): files.leapoon.com/PMarketing/Article/20251112/ot1762934894.png
+09:58:02	Warning: 	Retry after error -2 (Receive Time Out) at link files.leapoon.com/PMarketing/Article/20251112/ot1762934933.png (from https://m.wailianvisa.com/articles/2603.html)
+09:59:11	Warning: 	Retry after error -4 (Incorrect length (1785529 Bytes, 3505728 expected)) at link files.leapoon.com/PMarketing/Article/20251112/ot1762934950.png (from https://m.wailianvisa.com/articles/2603.html)
+09:59:26	Warning: 	file not stored in cache due to bogus state (broken size, expected 4517321 got 3495070): files.leapoon.com/PMarketing/Article/20251111/ot1762845688.png
+09:59:27	Warning: 	Retry after error -4 (Incorrect length (1178732 Bytes, 1768875 expected)) at link files.leapoon.com/PMarketing/Article/20251112/ot1762934982.png (from https://m.wailianvisa.com/articles/2603.html)
+10:00:21	Warning: 	file not stored in cache due to bogus state (broken size, expected 3245824 got 2636031): files.leapoon.com/PMarketing/Article/20251112/ot1762934919.png
+10:00:21	Warning: 	Retry after error -4 (Incorrect length (1751133 Bytes, 3547110 expected)) at link files.leapoon.com/PMarketing/Article/20251106/ot1762414939.png (from https://m.wailianvisa.com/articles/2602.html)
+10:01:03	Warning: 	Retry after error -4 (Incorrect length (1709525 Bytes, 4727257 expected)) at link files.leapoon.com/PMarketing/Article/20251106/ot1762415049.png (from https://m.wailianvisa.com/articles/2602.html)
+10:02:22	Warning: 	file not stored in cache due to bogus state (broken size, expected 3505728 got 2966706): files.leapoon.com/PMarketing/Article/20251112/ot1762934950.png
+10:02:23	Warning: 	Retry after error -4 (Incorrect length (1725433 Bytes, 4708780 expected)) at link files.leapoon.com/PMarketing/Article/20251106/ot1762415063.png (from https://m.wailianvisa.com/articles/2602.html)
+10:03:32	Warning: 	file not stored in cache due to bogus state (broken size, expected 3547110 got 2928631): files.leapoon.com/PMarketing/Article/20251106/ot1762414939.png
+10:03:32	Warning: 	Retry after error -4 (Incorrect length (1772397 Bytes, 4517321 expected)) at link files.leapoon.com/PMarketing/Article/20251106/ot1762415083.png (from https://m.wailianvisa.com/articles/2602.html)
+10:04:14	Warning: 	file not stored in cache due to bogus state (broken size, expected 4727257 got 2887023): files.leapoon.com/PMarketing/Article/20251106/ot1762415049.png
+10:04:14	Warning: 	Retry after error -4 (Incorrect length (1182309 Bytes, 1768875 expected)) at link files.leapoon.com/PMarketing/Article/20251106/ot1762415092.png (from https://m.wailianvisa.com/articles/2602.html)
+10:05:34	Warning: 	file not stored in cache due to bogus state (broken size, expected 4708780 got 2904287): files.leapoon.com/PMarketing/Article/20251106/ot1762415063.png
+10:05:34	Warning: 	Retry after error -4 (Incorrect length (1769689 Bytes, 4727824 expected)) at link files.leapoon.com/PMarketing/Article/20251106/ot1762415100.png (from https://m.wailianvisa.com/articles/2602.html)
+10:06:38	Warning: 	file not stored in cache due to bogus state (broken size, expected 4517321 got 2951895): files.leapoon.com/PMarketing/Article/20251106/ot1762415083.png
+10:06:55	Warning: 	file not stored in cache due to bogus state (broken size, expected 4674272 got 3602739): files.leapoon.com/PMarketing/Article/20251112/ot1762934933.png
+10:07:01	Warning: 	Retry after error -4 (Incorrect length (1708789 Bytes, 2733691 expected)) at link files.leapoon.com/PMarketing/Article/20251107/ot1762481403.png (from https://m.wailianvisa.com/articles/2601.html)
+10:07:14	Warning: 	Retry after error -4 (Incorrect length (1759301 Bytes, 3505728 expected)) at link files.leapoon.com/PMarketing/Article/20251107/ot1762481420.png (from https://m.wailianvisa.com/articles/2601.html)
+10:07:18	Warning: 	Retry after error -4 (Incorrect length (2881336 Bytes, 3505728 expected)) at link files.leapoon.com/PMarketing/Article/20251107/ot1762481430.png (from https://m.wailianvisa.com/articles/2601.html)
+10:09:01	Warning: 	Retry after error -4 (Incorrect length (1709445 Bytes, 4517321 expected)) at link files.leapoon.com/PMarketing/Article/20251107/ot1762481443.png (from https://m.wailianvisa.com/articles/2601.html)
+10:09:48	Warning: 	Retry after error -4 (Incorrect length (1720997 Bytes, 4674272 expected)) at link files.leapoon.com/PMarketing/Article/20251107/ot1762481475.png (from https://m.wailianvisa.com/articles/2601.html)
+10:09:52	Warning: 	file not stored in cache due to bogus state (broken size, expected 4727824 got 3487419): files.leapoon.com/PMarketing/Article/20251106/ot1762415100.png
+10:09:52	Warning: 	Retry after error -4 (Incorrect length (2810193 Bytes, 3988637 expected)) at link files.leapoon.com/PMarketing/Article/20251107/ot1762481496.png (from https://m.wailianvisa.com/articles/2601.html)
+10:11:56	Warning: 	Retry after error -4 (Incorrect length (3461124 Bytes, 4517321 expected)) at link files.leapoon.com/PMarketing/Article/20251107/ot1762481613.png (from https://m.wailianvisa.com/articles)
+10:13:03	Warning: 	Retry after error -4 (Incorrect length (1713929 Bytes, 2439141 expected)) at link files.leapoon.com/PMarketing/Article/20251024/ot1761292059.png (from https://m.wailianvisa.com/articles/2598.html)
+10:13:37	Warning: 	file not stored in cache due to bogus state (broken size, expected 4517321 got 3418430): files.leapoon.com/PMarketing/Article/20251107/ot1762481443.png
+10:13:37	Warning: 	Retry after error -4 (Incorrect length (2268613 Bytes, 3505728 expected)) at link files.leapoon.com/PMarketing/Article/20251024/ot1761292072.png (from https://m.wailianvisa.com/articles/2598.html)
+10:14:25	Warning: 	file not stored in cache due to bogus state (broken size, expected 4674272 got 3430766): files.leapoon.com/PMarketing/Article/20251107/ot1762481475.png
+10:14:25	Warning: 	Retry after error -4 (Incorrect length (1729189 Bytes, 4517321 expected)) at link files.leapoon.com/PMarketing/Article/20251024/ot1761292088.png (from https://m.wailianvisa.com/articles/2598.html)
+10:14:47	Warning: 	Retry after error -4 (Incorrect length (2341113 Bytes, 3505728 expected)) at link files.leapoon.com/PMarketing/Article/20251024/ot1761292101.png (from https://m.wailianvisa.com/articles/2598.html)
+10:15:00	Warning: 	Retry after error -4 (Incorrect length (1741677 Bytes, 4674272 expected)) at link files.leapoon.com/PMarketing/Article/20251024/ot1761292131.png (from https://m.wailianvisa.com/articles/2598.html)
+10:16:57	Warning: 	Retry after error -4 (Incorrect length (3359997 Bytes, 4727257 expected)) at link files.leapoon.com/PMarketing/Article/20251024/ot1761292152.png (from https://m.wailianvisa.com/articles/2598.html)
+10:17:35	Warning: 	file not stored in cache due to bogus state (broken size, expected 4517321 got 2907783): files.leapoon.com/PMarketing/Article/20251024/ot1761292088.png
+10:17:35	Warning: 	Retry after error -4 (Incorrect length (3339297 Bytes, 4517321 expected)) at link files.leapoon.com/PMarketing/Article/20251024/ot1761292299.png (from https://m.wailianvisa.com/articles/2598.html)
+10:17:55	Warning: 	Retry after error -4 (Incorrect length (3359405 Bytes, 4487194 expected)) at link files.leapoon.com/PMarketing/Article/20251029/ot1761726472.png (from https://m.wailianvisa.com/articles/2597.html)
+10:19:37	Warning: 	file not stored in cache due to bogus state (broken size, expected 4674272 got 3444634): files.leapoon.com/PMarketing/Article/20251024/ot1761292131.png
+10:19:37	Warning: 	Retry after error -4 (Incorrect length (1182737 Bytes, 1957321 expected)) at link files.leapoon.com/PMarketing/Article/20251029/ot1761726508.png (from https://m.wailianvisa.com/articles/2597.html)
+10:20:08	Warning: 	file not stored in cache due to bogus state (broken size, expected 4727257 got 4541439): files.leapoon.com/PMarketing/Article/20251024/ot1761292152.png
+10:24:45	Warning: 	file not stored in cache due to bogus state (broken size, expected 1382340 got 1181741): files.leapoon.com/PMarketing/Article/20220218/ot1645175587.png
+10:26:12	Warning: 	file not stored in cache due to bogus state (broken size, expected 2446990 got 1715461): files.leapoon.com/PMarketing/Article/20230606/ot1686041903.png
+10:26:19	Warning: 	file not stored in cache due to bogus state (broken size, expected 2335207 got 1179857): files.leapoon.com/PMarketing/Article/20230606/ot1686041959.png
+10:28:13	Warning: 	file not stored in cache due to bogus state (broken size, expected 2333047 got 1710897): files.leapoon.com/PMarketing/Article/20230606/ot1686041986.png
+10:30:43	Warning: 	file not stored in cache due to bogus state (broken size, expected 4674272 got 1718889): files.leapoon.com/PMarketing/Article/20250624/ot1750736494.png
+10:31:42	Warning: 	file not stored in cache due to bogus state (broken size, expected 3505728 got 1244605): files.leapoon.com/PMarketing/Article/20250605/ot1749108031.png
+10:33:19	Warning: 	file not stored in cache due to bogus state (broken size, expected 3505728 got 1721281): files.leapoon.com/PMarketing/Article/20250529/ot1748510773.png
+10:35:51	Error: 	Exit requested by shell or user
+10:35:56	Error: 	Exit requested by shell or user
+10:35:56	Error: 	Exit requested by shell or user
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
